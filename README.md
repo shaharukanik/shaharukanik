@@ -1,4 +1,4 @@
-**Shaharuk Anik** — AI Automation Specialist | Verified n8n Creator | Building AI Agents & Workflow Automations | Helping Businesses Automate Processes | Open to Freelance
+# Shaharuk Anik
 
 I help businesses eliminate manual, repetitive processes by designing intelligent, scalable workflows that connect their tools, save time, and run without human intervention.
 
